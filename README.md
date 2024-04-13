@@ -13,7 +13,7 @@ With the help of this system it doesn’t matter where you are you can easily au
   A light bulb
   
 # Step By Step Guide-
- # Setup MQTT Server: 
+ ## Setup MQTT Server: 
   Set up an MQTT server where your Raspberry Pi and other devices will connect to communicate. You can use popular MQTT brokers like Mosquitto or set up your own using software like Eclipse Paho.
 
  # Install Dependencies: 
